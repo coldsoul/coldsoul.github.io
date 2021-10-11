@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Codeshambles
-email: radi.radichev@gmail.com
+email: radi dot radichev at gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Personal blog with musings about management, software engineering and leadership.
     All opinions are strictly mine.
